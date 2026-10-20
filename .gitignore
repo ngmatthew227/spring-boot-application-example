@@ -1,3 +1,6 @@
 /target
 /.idea
 *.iml
+*.har
+*.exe
+.vscode/tasks.json
